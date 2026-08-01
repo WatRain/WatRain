@@ -1,11 +1,11 @@
 ## Hi there 👋
 **这里是WatRain,一个不知名准大学生。**
 
-[我的个人主页](https:://watrain.com)  
+[我的个人主页](watrain.com)  
 
 [我的个人博客](https://blog.watrain.com)  
 
-###联系我  
+### 联系我  
 
 *Email:waterrainbow@foxmail.com*  
 <!--
