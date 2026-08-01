@@ -1,13 +1,13 @@
 ## Hi there 👋
-**这里是WatRain,一个不知名准大学生。**
+**This is WatRain, an unknown soon-to-be college student.**
 
-[我的个人主页](https://watrain.com/)  
+[My Personal Website](https://watrain.com/)  
 
-[我的个人博客](https://blog.watrain.com/)  
+[My Personal Blog](https://blog.watrain.com/)  
 
-### 联系我  
+### Contact Me  
 
-*Email:waterrainbow@foxmail.com*  
+*Email: waterrainbow@foxmail.com*
 <!--
 **WatRain/WatRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
