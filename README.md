@@ -1,5 +1,5 @@
 ## Hi there 👋
-**This is WatRain, an university student in [GDUPT](https://www.gdupt.edu.cn/).**
+**This is WatRain, an university student in *[GDUPT](https://www.gdupt.edu.cn/)*.**
 
 [My Personal Website](https://watrain.com/)  
 
